@@ -9,7 +9,7 @@ import plotly.express as px
 # Read the airline data into pandas dataframe
 spacex_df = pd.read_csv(
     'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv')
-print(spacex_df.columns)
+# print(spacex_df.columns)
 max_payload = spacex_df['Payload Mass (kg)'].max()
 min_payload = spacex_df['Payload Mass (kg)'].min()
 
@@ -90,8 +90,8 @@ def update_scatter(selected_site, payload_range):
         filtered_df = spacex_df[(spacex_df['Launch Site'] == selected_site) &
                                 (spacex_df['Payload Mass (kg)'] >= payload_range[0]) &
                                 (spacex_df['Payload Mass (kg)'] <= payload_range[1])]
-    print(f"filtered_df {filtered_df}")
-    print(f"filtered_df columns {filtered_df.columns}")
+    # print(f"filtered_df {filtered_df}")
+    # print(f"filtered_df columns {filtered_df.columns}")
 
     fig = px.scatter(filtered_df, x='Payload Mass (kg)', y='class',
                      color='Booster Version Category',
