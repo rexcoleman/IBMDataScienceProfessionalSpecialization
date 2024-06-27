@@ -57,6 +57,14 @@ This repository showcases my journey through the IBM Data Science Professional C
 **Overview:** Implement data visualization techniques to tell compelling stories.
 **Key Project:** Create various charts and plots using Matplotlib, Seaborn, and Folium.
 
+![sql](img/folium_map_launch_sites.png)
+
+*Figure 4: Interactive folium map showing SpaceX launch sites.*
+
+![sql](img/folium_map_success_failurs_at_site.png)
+
+*Figure 4: Interactive folium map showing launch success/failures at a specific launch site using marker-clusters.*
+
 ### [Course 9: Machine Learning with Python](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C9_MachineLearningWithPyton)
 **Overview:** Understand and implement machine learning algorithms.
 **Key Project:** Write Python code for classification techniques like KNN and decision trees.
