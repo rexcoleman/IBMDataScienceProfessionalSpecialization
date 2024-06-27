@@ -49,7 +49,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 **Overview:** Understand and implement machine learning algorithms.
 **Key Project:** Write Python code for classification techniques like KNN and decision trees.
 
-### Course 10: Applied Data Science Capstone
+### [Course 10: Applied Data Science Capstone](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone)
 **Overview:** Demonstrate proficiency through a comprehensive capstone project.
 **Key Project:** Perform data wrangling, EDA, model development, and evaluation.
 
