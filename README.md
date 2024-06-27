@@ -31,7 +31,11 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![Web_Scraping](img/html_table.png)
 
+*Figure 1: [HTML Tables](https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches) showing list of Falcon 9 and Falcon Heavy launches.*
+
 ![Web_Scraping](img/dratframe_created_from_webscraping.png)
+
+*Figure 1: Result Pandas DataFrame from BeautifulSoup webscraping.*
 
 ### Course 5: Python Project for Data Science
 **Overview:** Work on a real-world data science project using Python.
