@@ -35,7 +35,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![Web_Scraping](img/dratframe_created_from_webscraping.png)
 
-*Figure 1: Result Pandas DataFrame from BeautifulSoup webscraping.*
+*Figure 2: Result Pandas DataFrame from BeautifulSoup webscraping.*
 
 ### Course 5: Python Project for Data Science
 **Overview:** Work on a real-world data science project using Python.
