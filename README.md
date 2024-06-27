@@ -33,7 +33,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 **Overview:** Work on a real-world data science project using Python.
 **Key Project:** Apply Python fundamentals and data structures to analyze data.
 
-[sql](/img/sql.png)
+![sql](img/sql.png)
 
 ### Course 6: Databases and SQL for Data Science with Python
 **Overview:** Analyze and manage data using SQL and Python.
