@@ -66,3 +66,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 This portfolio not only demonstrates my technical skills and knowledge but also my ability to apply them to real-world problems. Each project is a testament to my journey through the IBM Data Science Professional Certificate program and my readiness to excel as a data scientist.
 
 Explore the projects and witness the impact of data science in action!
+
+## Certificate Verification
+
+[Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Q5Q6H87SM9S9)
