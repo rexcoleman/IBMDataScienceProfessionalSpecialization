@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases my journey through the IBM Data Science Professional Certificate program. The portfolio highlights my proficiency in data science tools, methodologies, and applications, demonstrated through a series of projects that reflect real-world scenarios. Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone).
+This repository showcases my journey through the IBM Data Science Professional Certificate program. This specialization provides a comprehensive overview of data science fundamentals, emphasizing practical applications and real-world scenarios.  Each project aligns with the skills and knowledge necessary for a data scientist, culminating in this capstone project forecasting SpaceX rocket launch success: [report](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/blob/main/Capstone_Project_WinningTheSpaceRaceWithDataScience.pdf), [code](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone). Specifically for this repository, I would like to showcase 4 skills that are not as clearly demonstrated in other parts of my portfolio: web scraping, SQL, interactive map plotting with Folium, and dashboard plotting with Plotly and Dash.
 
 ## Certificate Highlights
 
