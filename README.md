@@ -93,4 +93,4 @@ Explore the projects and witness the impact of data science in action!
 
 ## Certificate Verification
 
-[Certificate](https://www.coursera.org/account/accomplishments/professional-cert/Q5Q6H87SM9S9)
+[Certificate #: Q5Q6H87SM9S9](https://www.coursera.org/account/accomplishments/professional-cert/Q5Q6H87SM9S9)
