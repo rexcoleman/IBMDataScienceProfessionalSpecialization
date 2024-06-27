@@ -47,6 +47,8 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![sql](img/sql.png)
 
+*Figure 3: SQL analysis ranking landing outcomes between 2010-06-04 and 2017-03-20.*
+
 ### [Course 7: Data Analysis with Python](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_7_DataAnalysisWithPython)
 **Overview:** Perform data cleaning, preparation, and exploratory analysis.
 **Key Project:** Manipulate and analyze datasets using Pandas, Numpy, and Scipy.
