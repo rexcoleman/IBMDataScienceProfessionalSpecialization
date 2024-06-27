@@ -75,6 +75,8 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 ![Classification Model Comparison](img/model_accuracy_comparison.png)
 
+*Figure 6: Classification model accuracy comparison: Decision Trees is the winner.*
+
 ### [Course 10: Applied Data Science Capstone](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C_10_AppliedDataScienceCapstone)
 **Overview:** Demonstrate proficiency through a comprehensive capstone project.
 **Key Project:** Perform data wrangling, EDA, model development, and evaluation.
