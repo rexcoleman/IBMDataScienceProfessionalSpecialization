@@ -41,7 +41,7 @@ This repository showcases my journey through the IBM Data Science Professional C
 **Overview:** Perform data cleaning, preparation, and exploratory analysis.
 **Key Project:** Manipulate and analyze datasets using Pandas, Numpy, and Scipy.
 
-### Course 8: Data Visualization with Python
+### [Course 8: Data Visualization with Python](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C8_DataVisualizationWithPython)
 **Overview:** Implement data visualization techniques to tell compelling stories.
 **Key Project:** Create various charts and plots using Matplotlib, Seaborn, and Folium.
 
