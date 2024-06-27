@@ -29,6 +29,10 @@ This repository showcases my journey through the IBM Data Science Professional C
 **Overview:** Gain proficiency in Python programming for data science.
 **Key Project:** Develop Python code using libraries like Pandas and Numpy.
 
+![Web_Scraping](img/html_table.png)
+
+![Web_Scraping](img/dratframe_created_from_webscraping.png)
+
 ### Course 5: Python Project for Data Science
 **Overview:** Work on a real-world data science project using Python.
 **Key Project:** Apply Python fundamentals and data structures to analyze data.
