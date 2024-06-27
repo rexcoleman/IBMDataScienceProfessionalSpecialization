@@ -65,9 +65,9 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 *Figure 4: Interactive folium map showing launch success/failures at a specific launch site using marker-clusters.*
 
-![Dashboard](img/interactive_plotly_dashboard_1.png)
-
 ![Dashboard](img/interactive_plotly_dashboard_2.png)
+
+*Figure 5: Plotly interactive dashborad showing launch successes by launch site.  Kennedy Space Center has the highest successful launch rate.*
 
 ### [Course 9: Machine Learning with Python](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C9_MachineLearningWithPyton)
 **Overview:** Understand and implement machine learning algorithms.
