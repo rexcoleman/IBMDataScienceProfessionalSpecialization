@@ -61,9 +61,13 @@ This repository showcases my journey through the IBM Data Science Professional C
 
 *Figure 4: Interactive folium map showing SpaceX launch sites.*
 
-![sql](img/folium_map_success_failurs_at_site.png)
+![SQL](img/folium_map_success_failurs_at_site.png)
 
 *Figure 4: Interactive folium map showing launch success/failures at a specific launch site using marker-clusters.*
+
+![Dashboard](img/interactive_plotly_dashboard_1)
+
+![Dashboard](img/interactive_plotly_dashboard_2)
 
 ### [Course 9: Machine Learning with Python](https://github.com/rexcoleman/IBMDataScienceProfessionalSpecialization/tree/main/C9_MachineLearningWithPyton)
 **Overview:** Understand and implement machine learning algorithms.
